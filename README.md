@@ -11,7 +11,7 @@
 
 ## Things I am passionate about
 
-- computer security :shipit:
+:shipit: computer security 
 - computer coding 
 - network engineering 
 
