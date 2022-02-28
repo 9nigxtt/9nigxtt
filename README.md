@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Welcome To My World">
-# Hey there :wave:
+# Hey there :wave:(aligh.center ) 
 
 
 ## About me
