@@ -8,7 +8,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/9nigxtt">
       <img src="https://img.shields.io/badge/Experience-1.5%20Years-blue?style=for-the-badge" />
     </a>
     <a href="nawaminandnight@gmail.com">
