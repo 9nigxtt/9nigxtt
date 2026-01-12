@@ -11,7 +11,7 @@
     <a href="https://github.com/yourusername">
       <img src="https://img.shields.io/badge/Experience-1.5%20Years-blue?style=for-the-badge" />
     </a>
-    <a href="mailto:youremail@example.com">
+    <a href="nawaminandnight@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Email%20Me-success?style=for-the-badge&logo=gmail" />
     </a>
   </p>
